@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a3a0f7-ddf8-4d80-beb7-d5cdc1e357cb" name="Default Changelist" comment="" />
+    <list default="true" id="a3a3a0f7-ddf8-4d80-beb7-d5cdc1e357cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-email/src/main/java/org/weida/toko/email/AccountEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-email/src/main/java/org/weida/toko/email/AccountEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-email/src/test/java/org/weida/toko/AccountMailServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/account-email/src/test/java/org/weida/toko/AccountMailServiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,6 +143,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="223" width="473" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1581146046668" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581237311340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581237311340" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1581127822025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
